@@ -40,7 +40,7 @@ A full-stack e-commerce platform built as an end-to-end project.
 
 The project includes features such as product browsing, shopping cart and checkout flows, authentication, multilingual support and an administration area.
 
-→ **Repository:** [Lilimi Studio](LINK_TO_REPOSITORY)  
+→ **Repository:** [Lilimi Studio](https://github.com/angieJagger/lilimi-studio-ecommerce)
 → **Live Demo:** [Lilimi Studio](https://lilimistudio.com/en)  
 
 ### 🌱 Currently
