@@ -41,10 +41,10 @@ A full-stack e-commerce platform built as an end-to-end project.
 The project includes features such as product browsing, shopping cart and checkout flows, authentication, multilingual support and an administration area.
 
 → **Repository:** [Lilimi Studio](LINK_TO_REPOSITORY)  
-→ **Live Demo:** coming soon
+→ **Live Demo:** [Lilimi Studio](https://lilimistudio.com/en)  
 
 ### 🌱 Currently
 
-I'm currently developing **Lilimi Studio**, expanding its backend and frontend functionality and preparing the application for deployment on AWS.
+I'm currently building Lilimi Studio, a full-stack e-commerce application deployed on AWS. I'm expanding its Angular frontend and Spring Boot backend with order management, admin tools, and project inquiries, while introducing automated testing and CI/CD.
 
 Alongside the project, I'm strengthening my knowledge of software architecture, testing and production-ready application development.
